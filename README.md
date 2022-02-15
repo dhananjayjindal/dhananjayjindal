@@ -4,7 +4,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Dhananjay+Jindal;Student+at+NIT+Hamirpur)](https://git.io/typing-svg)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhananjayjindal" alt="dhananjayjindal" /></a> </p>
+
 <h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...</h2>
 
 🤔 I’m looking for Full Stack Projects.
@@ -12,7 +12,7 @@
 📫 How to reach me: dhananjayJindal343@gmail.com.
 😄 Pronouns: Dhananjay,Dj.
 ⚡ Fun fact: I sit in front of my laptop staring my code and love to play badminton.
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhananjayjindal" alt="dhananjayjindal" /></a> </p>
 <h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
