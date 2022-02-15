@@ -49,4 +49,11 @@
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dhananjayjindal&show_icons=true&theme=synthwave" alt="dhananjayjindal :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dhananjayjindal&show_icons=true&theme=tokyonight" alt="dhananjayjindal :: Profile Stats" /></p>
+
+
+<h4 align="center">Streak and Contribution :fire:</h4>
+
+<p align="center"> <img
+Src="http://github-readme-streak-stats.herokuapp.com?user=dhananjayjindal&theme=tokyonight&date_format=j%20M%5B%20Y%5D)" />
+
