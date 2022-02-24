@@ -7,7 +7,6 @@
 
 <h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...</h2>
 
-🤖 Open Source and ML enthusiast.
 📫 How to reach me: dhananjayJindal343@gmail.com.
 😄 Pronouns: Dhananjay,Dj.
 ⚡ Fun fact: I sit in front of my laptop just to stare at my phone 🙂
