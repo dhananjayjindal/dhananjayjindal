@@ -10,7 +10,7 @@
 🤖 Open Source and ML enthusiast.
 📫 How to reach me: dhananjayJindal343@gmail.com.
 😄 Pronouns: Dhananjay,Dj.
-⚡ Fun fact: I sit in front of my laptop just to tare at my phone 🙂
+⚡ Fun fact: I sit in front of my laptop just to stare at my phone 🙂
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhananjayjindal" alt="dhananjayjindal" /></a> </p>
 <h2 align="center">You can reach me at :alien:</h2>
 
