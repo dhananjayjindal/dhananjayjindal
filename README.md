@@ -1,6 +1,6 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h1 align="center">Jai Shri Ram (जय श्री राम), Hola Myself DJ <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
+<h1 align="center">Jai Shri Ram (जय श्री राम), Hi It's Me DJ <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Dhananjay+Jindal;Student+at+NIT+Hamirpur)](https://git.io/typing-svg)
